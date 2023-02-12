@@ -1,5 +1,6 @@
 package arrayofobjects;
 import java.util.Scanner;
+//class
 public class Arrayofobjects {
     public static void main(String[] args)
     {
